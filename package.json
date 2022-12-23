@@ -1,0 +1,11 @@
+{
+  "name": "scss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "./assets/scss/style.scss ./assets/css/style.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
